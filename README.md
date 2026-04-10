@@ -52,4 +52,60 @@ Inspired by old handheld brick game consoles 🕹️ — now rebuilt with modern
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## 🎥 Demo
+
+- ▶ YouTube: https://your-youtube-link
+- 🐦 X (Twitter): https://your-x-link
+
+---
+
+## ⚙️ How to Run
+
+1. Install Arduino IDE
+2. Install required libraries:
+   - Adafruit GFX
+   - Adafruit SSD1306
+3. Open any game from `/games/`
+4. Upload to Arduino Nano
+
+---
+
+## 🧠 Concepts Used
+
+- Embedded Systems Design
+- State Machines
+- Non-blocking programming (millis)
+- Game loop architecture
+- Graphics rendering on OLED
+- Input handling (buttons)
+
+---
+
+## 🎯 Goal of This Project
+
+To recreate classic handheld gaming experience using low-cost hardware and efficient embedded programming.
+
+---
+
+## 🚀 Future Plans
+
+- 🎮 Game launcher menu (multi-game selection)
+- 💾 EEPROM save (high scores)
+- 🤖 AI opponents
+- 🎨 Better animations & effects
+- 🔋 Battery monitoring system
+
+---
+
+## 👨‍💻 Author
+
+Built with ❤️ by **Telugu Mad Thinker**
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
