@@ -46,7 +46,7 @@ A fully featured Pong game built using Arduino Nano and 0.96" SSD1306 OLED displ
 
 ## 🖼️ Screenshots
 
-![UI](docs/ui_screens.png)
+![circuit](pong-oled/Images/circuit.png)
 
 ---
 
