@@ -1,6 +1,6 @@
 # 🏓 Pong Game on OLED (Arduino Nano)
 
-A fully featured Pong game built using Arduino Nano and 0.96" SSD1306 OLED display.
+A fully featured Pong video game built using Arduino Nano and 0.96" SSD1306 OLED display.
 
 ---
 
