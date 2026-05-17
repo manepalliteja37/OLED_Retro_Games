@@ -1,6 +1,6 @@
 # 🎮 OLED Retro Games (Arduino)
 
-A collection of classic retro games built for Arduino using a 0.96" SSD1306 OLED display.
+A collection of classic retro video games built for Arduino using a 0.96" SSD1306 OLED display.
 
 Inspired by old handheld brick game consoles 🕹️ — now rebuilt with modern embedded systems.
 
